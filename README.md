@@ -1,2 +1,2 @@
 # Sword
-game made in pure javascript
+game made(not finish) in pure javascript
