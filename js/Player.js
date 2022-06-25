@@ -8,7 +8,8 @@ class Player
           this.y = y;
           this.w = w;
           this.h = h;
-          this.isDead = false
+          this.isDead = false;
+          this.hp = 100
      }
 
      dead()
